@@ -1,0 +1,19 @@
+{
+    "name": "joaomateusferr/simple-mailer",
+    "description": "A PHP Mailer wrapper that adds validations to simplify sending emails in bulk.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Ferreira",
+            "email": "joaomateusferr@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
