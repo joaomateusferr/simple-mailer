@@ -1,2 +1,4 @@
 /vendor/
 composer.lock
+scripts/*
+!scripts/send-email-sample.php
